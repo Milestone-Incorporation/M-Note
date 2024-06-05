@@ -1,5 +1,8 @@
-M-Note
+M-Note  
+
 Welcome to M-Note, your ultimate notes application designed to help you capture ideas, manage tasks, and organize information seamlessly. M-Note provides a simple yet powerful interface to ensure that your notes are always at your fingertips, whether you're at home, at work, or on the go.
+
+
 
 Features
 User-Friendly Interface: Easy-to-use and intuitive design that makes note-taking a breeze.
@@ -10,6 +13,8 @@ Cloud Sync: Sync your notes across all your devices to keep your information up 
 Offline Access: Access and edit your notes even without an internet connection.
 Security: Password protection and encryption to keep your notes safe and secure.
 Multi-Platform Support: Available on iOS, Android, and web browsers.
+
+
 Getting Started
 Prerequisites
 Before you begin, ensure you have met the following requirements:
