@@ -68,9 +68,9 @@ Open a Pull Request.
 Support
 If you encounter any issues or have questions, please contact our support team:
 
-Email: support@mnote.example.com
-Phone: +1-800-123-4567
-Website: M-Note Support
+Email: info@miletech-ss.com
+Phone: +254 733 728 926
+Website: www.miletech-ss.com
 License
 M-Note is licensed under the MIT License. See the LICENSE file for more information.
 
